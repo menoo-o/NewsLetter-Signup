@@ -1,0 +1,32 @@
+.bg{
+    margin: 0;
+    padding: 0;
+    width: 1700px; height: 1200px;
+    background-color: rgba(54,56,77,255) !important;
+}
+#pgBtn:hover{
+    background: linear-gradient(to left, rgba(255, 142, 74, 1), rgba(255, 111, 87, 1), rgba(255, 87, 112, 1));
+    color: white;
+}
+
+@media screen and (min-width:376px) {
+    
+    .msg{
+        padding-left: 3.5rem;
+    }
+    
+    .text2{
+        width: 520px; height: 150px;
+    }
+    
+    #pgBtn{
+        margin-top: 5rem;
+        width: 29rem;
+        padding-left: 0 !important;
+        margin-left: 1.5rem;
+    }
+    
+
+    }
+    
+    

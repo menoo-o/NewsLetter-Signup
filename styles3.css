@@ -1,0 +1,10 @@
+*{
+    padding: 0;
+    margin:0;
+    box-sizing: border-box;
+}
+
+.bg{
+    width: 100vw; height: 100vh;
+    background-color: rgba(54,56,77,255) !important;
+}
